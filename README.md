@@ -47,7 +47,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 
 | Certificate | Issuer | Credential |
 |--------------|---------|-------------|
-| [![Google Cybersecurity Certificate](https://raw.githubusercontent.com/dunushi21/dunushi21/main/google-cybersecurity-professional-certificate-v2.png)](https://www.credly.com/badges/06571208-ed37-4f48-955a-dd8c0b82b549/public_url) | **Google / Coursera** | *Google Cybersecurity Professional Certificate* |
+| [![Google Cybersecurity Certificate](https://github.com/dinushi21/github.com-dinushi21/blob/main/google-cybersecurity-professional-certificate-v2.png)](https://www.credly.com/badges/06571208-ed37-4f48-955a-dd8c0b82b549/public_url) | **Google / Coursera** | *Google Cybersecurity Professional Certificate* |
 | [![Meta Back-End Developer Certificate](https://raw.githubusercontent.com/dunushi21/dunushi21/main/meta-back-end-developer-professional-certificate-v-.png)]((https://www.credly.com/badges/75365cd5-2dad-4d73-9e0f-a26d40629847/public_url)) | **Meta / Coursera** | *Meta Back-End Developer Professional Certificate* |
 
 ---

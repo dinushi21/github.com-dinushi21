@@ -66,7 +66,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [Finetuning Large Language Models](https://github.com/dunushi21/llm-finetuning) | Fine-tuned LLMs for domain-specific NLP tasks with evaluation, dataset curation, and safety considerations. | Python, Hugging Face, Transformers |
+| [FineTranslate](https://github.com/dinushi21/Finetranslate) | LoRA-finetuned multilingual translator that converts casual English sentences into French, Spanish, German, Welsh, Sinhala, and Tamil. Demonstrates efficient LLM fine-tuning using PEFT and Transformers. | Python, Hugging Face, PEFT, Transformers |
 | [AI Agents in LangGraph](https://github.com/dunushi21/ai-agent-langgraph) | Built agentic workflows with tool use (search, file I/O), showing systems thinking beyond basic prompting. | Python, LangGraph, LangChain |
 | [Large Multimodal Model Prompting with Gemini](https://github.com/dunushi21/multimodal-gemini) | Experimented with text+vision multimodal tasks for EU-relevant AI research directions. | Python, Gemini API, TensorFlow |
 | [Build a Computer Vision App with Azure Cognitive Services](https://github.com/dunushi21/azure-computer-vision) | Deployed a CV web app using Azure AI, with ethical AI usage documentation and performance evaluation. | Azure, Python, HTML |

@@ -48,7 +48,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 | Certificate | Issuer | Credential |
 |--------------|---------|-------------|
 | [![Google Cybersecurity Certificate](https://github.com/dinushi21/github.com-dinushi21/blob/main/google-cybersecurity-professional-certificate-v2.png)](https://www.credly.com/badges/06571208-ed37-4f48-955a-dd8c0b82b549/public_url) | **Google / Coursera** | *Google Cybersecurity Professional Certificate* <br> [🎓 View on Coursera] ❤️(https://www.coursera.org/account/accomplishments/professional-cert/C1FH5YOJ8Y72) |
-| [![Meta Back-End Developer Certificate](https://github.com/dinushi21/github.com-dinushi21/blob/main/meta-back-end-developer-professional-certificate-v-.png)]((https://www.credly.com/badges/75365cd5-2dad-4d73-9e0f-a26d40629847/public_url)) | **Meta / Coursera** | *Meta Back-End Developer Professional Certificate* <br> [🎓 View on Coursera](https://www.coursera.org/account/accomplishments/professional-cert/CEUPCAVHA0RV) | ❤️
+| [![Meta Back-End Developer Certificate](https://github.com/dinushi21/github.com-dinushi21/blob/main/meta-back-end-developer-professional-certificate-v-.png)]((https://www.credly.com/badges/75365cd5-2dad-4d73-9e0f-a26d40629847/public_url)) | **Meta / Coursera** | *Meta Back-End Developer Professional Certificate* <br> [🎓 View on Coursera](https://www.coursera.org/account/accomplishments/professional-cert/CEUPCAVHA0RV) |❤️
 
 ---
 
@@ -66,7 +66,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [FineTranslate](https://github.com/dinushi21/Finetranslate) | LoRA-finetuned multilingual translator that converts casual English sentences into French, Spanish, German, Welsh, Sinhala, and Tamil. Demonstrates efficient LLM fine-tuning using PEFT and Transformers. | Python, Hugging Face, PEFT, Transformers |
+| [FineTranslate](https://github.com/dinushi21/Finetranslate) | LoRA-finetuned multilingual translator that converts casual English sentences into French, Spanish, German, Welsh, Sinhala, and Tamil. Demonstrates efficient LLM fine-tuning using PEFT and Transformers. | Python, Hugging Face, PEFT, Transformers |❤️
 | [AI Agents in LangGraph](https://github.com/dunushi21/ai-agent-langgraph) | Built agentic workflows with tool use (search, file I/O), showing systems thinking beyond basic prompting. | Python, LangGraph, LangChain |
 | [Large Multimodal Model Prompting with Gemini](https://github.com/dunushi21/multimodal-gemini) | Experimented with text+vision multimodal tasks for EU-relevant AI research directions. | Python, Gemini API, TensorFlow |
 | [Build a Computer Vision App with Azure Cognitive Services](https://github.com/dunushi21/azure-computer-vision) | Deployed a CV web app using Azure AI, with ethical AI usage documentation and performance evaluation. | Azure, Python, HTML |

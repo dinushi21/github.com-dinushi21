@@ -103,7 +103,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/dinushi-nilakshika-08ab2119b)](#) ❤️
+[![LinkedIn](www.linkedin.com/in/dinushi-nilakshika-08ab2119b)](#) ❤️
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ---

@@ -78,7 +78,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 | Project | Description | Tools |
 |----------|--------------|--------|
 | [Azure REST API with NodeJS Serverless Functions](https://github.com/dinushi21/nodejs-azure-API) | Designed and deployed a REST API using serverless Azure Functions with Postman test collections. | Node.js, Azure Functions, REST |❤️
-| [Cloud SQL with Terraform](https://github.com/dunushi21/cloud-sql-terraform) | Infrastructure-as-Code setup for scalable cloud databases with disaster recovery documentation. | Terraform, GCP, MySQL |
+| [Cloud SQL with Terraform](https://github.com/dinushi21/Cloud-SQL-with-Terraform) | Infrastructure-as-Code setup for scalable cloud databases with disaster recovery documentation. | Terraform, GCP, MySQL |❤️
 | [Auto-Scaling AWS EC2 Virtual Machine](https://github.com/dunushi21/aws-autoscale) | Configured auto-scaling groups and performed load testing for cost-efficient cloud reliability. | AWS, EC2, Python, CloudWatch |
 
 ---

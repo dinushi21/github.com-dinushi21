@@ -32,11 +32,11 @@ My expertise includes **web development, artificial intelligence, cloud computin
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ❤️
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ❤️
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)❤️
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ❤️
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)❤️
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ❤️
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ❤️
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=security&logoColor=white) ❤️
@@ -87,7 +87,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [Vulnerability Scanning with Nmap](https://github.com/dunushi21/nmap-scan) | Conducted vulnerability scans, analyzed network exposure, and proposed mitigation steps. | Nmap, Linux, Networking |
+| [Vulnerability Scanning with Nmap](https://github.com/dinushi21/nmap-vulnerability-scanning) | Conducted vulnerability scans, analyzed network exposure, and proposed mitigation steps. | Nmap, Linux, Networking |❤️
 | [Web Application Security Testing with OWASP ZAP](https://github.com/dunushi21/owasp-zap) | Built and tested a vulnerable web app, generating reports and implementing secure coding fixes. | OWASP ZAP, HTML, JavaScript, Security |
 
 ---

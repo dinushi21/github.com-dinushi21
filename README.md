@@ -88,7 +88,6 @@ My expertise includes **web development, artificial intelligence, cloud computin
 | Project | Description | Tools |
 |----------|--------------|--------|
 | [Vulnerability Scanning with Nmap](https://github.com/dinushi21/nmap-vulnerability-scanning) | Conducted vulnerability scans, analyzed network exposure, and proposed mitigation steps. | Nmap, Linux, Networking |❤️
-| [Web Application Security Testing with OWASP ZAP](https://github.com/dunushi21/owasp-zap) | Built and tested a vulnerable web app, generating reports and implementing secure coding fixes. | OWASP ZAP, HTML, JavaScript, Security |
 
 ---
 

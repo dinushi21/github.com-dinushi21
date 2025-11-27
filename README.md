@@ -97,7 +97,6 @@ My expertise includes **web development, artificial intelligence, cloud computin
 |----------|--------------|--------|
 | [Build a Meditation Website with PHP & MySQL](https://github.com/dinushi21/bavana-meditation-website) | Created a fully functional meditation web application featuring authentication, resource pages, video/image content, and MySQL database integration. | PHP, MySQL, HTML, CSS |❤️
 | [Scotbook – Bookstore Website (Hand-Coded)](https://github.com/dinushi21/scotbook-webpage) | A fully hand-coded multi-page bookstore website recreated from a Wix prototype, featuring a responsive layout, category-based book browsing, interactive UI animations, and clean reusable components. | HTML, CSS |❤️️️️
-| [Build a Full Website using WordPress](https://github.com/dunushi21/full-wordpress-site) | Complete WordPress-based site with CMS management and content marketing integration. | WordPress, HTML, CSS |
 
 ---
 

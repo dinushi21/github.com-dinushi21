@@ -55,8 +55,10 @@ My expertise includes **web development, artificial intelligence, cloud computin
 > 🎓 *All certificates are verified through Coursera and Credly.*
 
 ## 📊 GitHub Stats
-![Dunushi's GitHub stats](https://github-readme-stats-git-master.dunstan.vercel.app/api?username=dunushi21&show_icons=true)
-![Top Languages](https://github-readme-stats-git-master.dunstan.vercel.app/api/top-langs/?username=dunushi21&layout=compact)
+
+![Dunushi's GitHub stats](https://github-readme-stats-git-master.dunstan.vercel.app/api?username=dunushi21&show_icons=true&theme=algolia)
+
+![Top Languages](https://github-readme-stats-git-master.dunstan.vercel.app/api/top-langs/?username=dunushi21&layout=compact&theme=algolia)
 
 ---
 

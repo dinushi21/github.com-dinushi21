@@ -95,7 +95,7 @@ My expertise includes **web development, artificial intelligence, cloud computin
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [Build a Meditation Website with PHP & MySQL]() | Created a fully functional meditation web application featuring authentication, resource pages, video/image content, and MySQL database integration. | PHP, MySQL, HTML, CSS |❤️
+| [Build a Meditation Website with PHP & MySQL](https://github.com/dinushi21/bavana-meditation-website) | Created a fully functional meditation web application featuring authentication, resource pages, video/image content, and MySQL database integration. | PHP, MySQL, HTML, CSS |❤️
 | [Build a Free Website with WordPress](https://github.com/dunushi21/wordpress-site) | Designed a responsive WordPress site focusing on layout, SEO, and accessibility. | WordPress, Web Design |
 | [Build a Full Website using WordPress](https://github.com/dunushi21/full-wordpress-site) | Complete WordPress-based site with CMS management and content marketing integration. | WordPress, HTML, CSS |
 
